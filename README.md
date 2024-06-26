@@ -35,7 +35,11 @@ Each required element should have a specified data-testid attribute for easy ide
 
 
                                                       Mobile view
-![tech-goals-mobileView.jpg](./images/tech-goals-mobileView.jpg)
+![tech-goals-mobileView1.jpg](./images/tech-goals-mobileView1.jpg)
+
+![tech-goals-mobileView2.jpg](./images/tech-goals-mobileView2.jpg)
+
+![tech-goals-mobileView3.jpg](./images/tech-goals-mobileView3.jpg)
 
 ### Links
 
