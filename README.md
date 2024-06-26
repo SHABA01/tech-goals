@@ -72,35 +72,23 @@ Each required element should have a specified data-testid attribute for easy ide
 
 ### Sections
 
-1. **Q3 2024 - Master Web Development**
+1. **July 2024 - September 2024: Advanced CSS and JavaScript**
 
-   - Complete advanced courses in HTML, CSS, JavaScript by December 2024.
-   - Build and deploy three full-stack applications using React and Node.js by March 2025.
-   - Participate in coding challenges and hackathons monthly to enhance problem-solving skills.
+2. **October 2024 - December 2024: Frontend Frameworks**
 
-2. **Q1 2025 - Contribute to Open Source**
+3. **January 2025 - March 2025: State Management and Testing**
 
-   - Identify and select five open-source projects on GitHub by January 2025.
-   - Make regular contributions and submit pull requests by March 2025.
-   - Collaborate with project maintainers to fix bugs and add new features.
+4. **April 2025 - June 2025: Performance Optimization and PWAs**
 
-3. **Q3 2025 - Develop Soft Skills**
+5. **July 2025 - September 2025: Advanced React and TypeScript**
 
-   - Attend monthly workshops on communication and teamwork starting July 2025.
-   - Engage in team projects and take on leadership roles by October 2025.
-   - Read books on effective communication and leadership.
+6. **October 2025 - December 2025: Backend Basics**
 
-4. **Q1 2026 - Gain Certifications**
+7. **January 2026 - March 2026: Full Stack Development**
 
-   - Enroll in cloud computing, cybersecurity, and data science courses by January 2026.
-   - Complete all certification exams by June 2026.
-   - Apply learned skills in personal and professional projects.
+8. **April 2026 - June 2026: Advanced Full Stack Concepts**
 
-5. **Q4 2026 - Build a Personal Project Portfolio**
-
-   - Create and document at least five projects by September 2026.
-   - Develop a personal website to showcase projects by October 2026.
-   - Share portfolio with potential employers and the tech community.
+9. **July 2026: Finalizing Skills and Job Preparation**
 
 ## Author
 
