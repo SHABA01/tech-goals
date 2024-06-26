@@ -31,7 +31,11 @@ Each required element should have a specified data-testid attribute for easy ide
 ### Screenshot
 
                                                       Desktop view
-![tech-goals-desktopView.png](./images/tech-goals-desktopView.png)
+![tech-goals-desktopView1.jpg](./images/tech-goals-desktopView1.jpg)
+
+![tech-goals-desktopView2.jpg](./images/tech-goals-desktopView2.jpg)
+
+![tech-goals-desktopView3.jpg](./images/tech-goals-desktopView3.jpg)
 
 
                                                       Mobile view
