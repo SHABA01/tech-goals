@@ -6,7 +6,6 @@ This is a single-page website outlining my goals for the next 2 years in the tec
 
 - [Overview](#overview)
   - [Task](#task)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,23 +26,6 @@ Each required element should have a specified data-testid attribute for easy ide
 
 - **Language:** Html, Css and Javascript only.
 - **Responsiveness:** The website must be responsive and function well on all devices (desktop, tablet, mobile).
-
-### Screenshot
-
-                                                      Desktop view
-![tech-goals-desktopView1.jpg](./images/tech-goals-desktopView1.jpg)
-
-![tech-goals-desktopView2.jpg](./images/tech-goals-desktopView2.jpg)
-
-![tech-goals-desktopView3.jpg](./images/tech-goals-desktopView3.jpg)
-
-
-                                                      Mobile view
-![tech-goals-mobileView1.jpg](./images/tech-goals-mobileView1.jpg)
-
-![tech-goals-mobileView2.jpg](./images/tech-goals-mobileView2.jpg)
-
-![tech-goals-mobileView3.jpg](./images/tech-goals-mobileView3.jpg)
 
 ### Links
 
