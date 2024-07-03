@@ -1,6 +1,6 @@
 # My Tech Goals for the Next 2 Years
 
-This is a single-page website outlining my goals for the next 2 years in the tech field. The website is built using HTML and CSS only, ensuring it is visually appealing, mobile-friendly, and responsive. Each section includes specific dates and detailed steps for achieving each goal, presented in a timeline format with smooth CSS animations.
+This is a single-page website outlining my goals for the next 2 years in the tech field. The website is built using HTML and CSS only, ensuring it is visually appealing, mobile-friendly, and responsive. It includes a profile section, current date and time, and specific dates with detailed steps for achieving each goal, presented in a timeline format with smooth CSS animations.
 
 ## Table of contents
 
@@ -12,7 +12,7 @@ This is a single-page website outlining my goals for the next 2 years in the tec
   - [Built with](#built-with)
   - [Features](#features)
   - [Structure](#structure)
-  - [Sections](#sections)
+  - [Timelines](#timelines)
 - [Author](#author)
 
 ## Overview
@@ -20,12 +20,12 @@ This is a single-page website outlining my goals for the next 2 years in the tec
 ### Task
 
 Create and host a single-page website outlining your goals for the next 2 years in the tech field.
-The website should be visually appealing, mobile-friendly, and utilize html and css only.
+The website should be visually appealing, mobile-friendly, and utilize html, css and js only.
 Each required element should have a specified data-testid attribute for easy identification and testing.
 
 **Requirements:**
 
-- **Language:** Html and Css only. No Javascript allowed.
+- **Language:** Html, Css and Javascript only.
 - **Responsiveness:** The website must be responsive and function well on all devices (desktop, tablet, mobile).
 
 ### Screenshot
@@ -56,9 +56,11 @@ Each required element should have a specified data-testid attribute for easy ide
 
 - HTML5
 - CSS3
+- JS
 
 ### Features
 
+- **Current Date and Time:** The current date, time and day of the week is updated and displayed in realtime.
 - **Timeline Format:** Goals are organized into a 3-month grouping format (excluding the last).
 - **Responsive Design:** The website is designed to function well on all devices, including desktops, tablets, and mobile phones.
 - **CSS Animations:** Smooth transitions and animations (hover effect) enhance the user experience.
@@ -70,7 +72,7 @@ Each required element should have a specified data-testid attribute for easy ide
 - **Main Content:** Divided into sections, each representing a goal with specific steps and timelines.
 - **Footer:** Contains the copyright information.
 
-### Sections
+### Timelines
 
 1. **July 2024 - September 2024: Advanced CSS and JavaScript**
 
