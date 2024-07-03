@@ -1,6 +1,6 @@
 # My Tech Goals for the Next 2 Years
 
-This is a single-page website outlining my goals for the next 2 years in the tech field. The website is built using HTML and CSS only, ensuring it is visually appealing, mobile-friendly, and responsive. It includes a profile section, current date and time, and specific dates with detailed steps for achieving each goal, presented in a timeline format with smooth CSS animations.
+This is a single-page website outlining my goals for the next 2 years in the tech field. The website is built using HTML, CSS and JavaScript only, ensuring it is visually appealing, mobile-friendly, and responsive. It includes a profile section, current date and time, and specific dates with detailed steps for achieving each goal, presented in a timeline format with smooth CSS animations.
 
 ## Table of contents
 
