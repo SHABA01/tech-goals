@@ -69,8 +69,8 @@ Each required element should have a specified data-testid attribute for easy ide
 ### Structure
 
 - **Header:** Contains the main title of the website.
-- **Main Content:** Divided into sections, each representing a goal with specific steps and timelines.
-- **Footer:** Contains the copyright information.
+- **Main Content:** Profile section, Date-Time Section, and Timeline section.
+- **Footer:** Contains the copyright information and external links.
 
 ### Timelines
 
